@@ -1,0 +1,13 @@
+D:\Visual studio project\DevsProjects\Commons\bin\Debug\netcoreapp3.1\Commons.deps.json
+D:\Visual studio project\DevsProjects\Commons\bin\Debug\netcoreapp3.1\Commons.dll
+D:\Visual studio project\DevsProjects\Commons\bin\Debug\netcoreapp3.1\Commons.pdb
+D:\Visual studio project\DevsProjects\Commons\bin\Debug\netcoreapp3.1\Contracts.dll
+D:\Visual studio project\DevsProjects\Commons\bin\Debug\netcoreapp3.1\Models.dll
+D:\Visual studio project\DevsProjects\Commons\bin\Debug\netcoreapp3.1\Contracts.pdb
+D:\Visual studio project\DevsProjects\Commons\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Visual studio project\DevsProjects\Commons\obj\Debug\netcoreapp3.1\Commons.csprojAssemblyReference.cache
+D:\Visual studio project\DevsProjects\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfoInputs.cache
+D:\Visual studio project\DevsProjects\Commons\obj\Debug\netcoreapp3.1\Commons.AssemblyInfo.cs
+D:\Visual studio project\DevsProjects\Commons\obj\Debug\netcoreapp3.1\Commons.csproj.CopyComplete
+D:\Visual studio project\DevsProjects\Commons\obj\Debug\netcoreapp3.1\Commons.dll
+D:\Visual studio project\DevsProjects\Commons\obj\Debug\netcoreapp3.1\Commons.pdb

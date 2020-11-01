@@ -1,0 +1,13 @@
+D:\Visual studio project\DevsProjects\ReliefwebApi\bin\Debug\netcoreapp3.1\ReliefwebApi.deps.json
+D:\Visual studio project\DevsProjects\ReliefwebApi\bin\Debug\netcoreapp3.1\ReliefwebApi.dll
+D:\Visual studio project\DevsProjects\ReliefwebApi\bin\Debug\netcoreapp3.1\ReliefwebApi.pdb
+D:\Visual studio project\DevsProjects\ReliefwebApi\bin\Debug\netcoreapp3.1\Contracts.dll
+D:\Visual studio project\DevsProjects\ReliefwebApi\bin\Debug\netcoreapp3.1\Models.dll
+D:\Visual studio project\DevsProjects\ReliefwebApi\bin\Debug\netcoreapp3.1\Contracts.pdb
+D:\Visual studio project\DevsProjects\ReliefwebApi\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Visual studio project\DevsProjects\ReliefwebApi\obj\Debug\netcoreapp3.1\ReliefwebApi.csprojAssemblyReference.cache
+D:\Visual studio project\DevsProjects\ReliefwebApi\obj\Debug\netcoreapp3.1\ReliefwebApi.AssemblyInfoInputs.cache
+D:\Visual studio project\DevsProjects\ReliefwebApi\obj\Debug\netcoreapp3.1\ReliefwebApi.AssemblyInfo.cs
+D:\Visual studio project\DevsProjects\ReliefwebApi\obj\Debug\netcoreapp3.1\ReliefwebApi.csproj.CopyComplete
+D:\Visual studio project\DevsProjects\ReliefwebApi\obj\Debug\netcoreapp3.1\ReliefwebApi.dll
+D:\Visual studio project\DevsProjects\ReliefwebApi\obj\Debug\netcoreapp3.1\ReliefwebApi.pdb

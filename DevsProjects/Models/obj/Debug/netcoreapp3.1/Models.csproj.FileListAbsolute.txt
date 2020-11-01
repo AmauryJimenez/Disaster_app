@@ -1,0 +1,8 @@
+D:\Visual studio project\DevsProjects\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+D:\Visual studio project\DevsProjects\Models\bin\Debug\netcoreapp3.1\Models.dll
+D:\Visual studio project\DevsProjects\Models\bin\Debug\netcoreapp3.1\Models.pdb
+D:\Visual studio project\DevsProjects\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+D:\Visual studio project\DevsProjects\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+D:\Visual studio project\DevsProjects\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+D:\Visual studio project\DevsProjects\Models\obj\Debug\netcoreapp3.1\Models.dll
+D:\Visual studio project\DevsProjects\Models\obj\Debug\netcoreapp3.1\Models.pdb
